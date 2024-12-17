@@ -2,9 +2,6 @@
 
 ### 🚀 About Me
 - 🎓 **Associate System Analyst** with expertise in **Blockchain Development** and **Full-Stack Web Development**.  
-- 💡 Passionate about building decentralized applications, smart contracts, and solving complex problems.  
-- 🔧 Skilled in **C++**, **JavaScript**, **Solidity**, and modern web technologies like **NodeJs** and **ReactJs**.
-
 ---
 
 ### 👀 I’m interested in:
@@ -17,15 +14,7 @@
 ### 🌱 I’m currently learning:
 - Advanced Solidity Patterns for Gas Optimization and Security  
 - Testing smart contracts with **Hardhat** and **Foundry**  
-- Improving problem-solving and coding skills with **Leetcode** and **HackerRank**
-
----
-
-### 💼 My Projects:
-- **NFT Marketplace**: Built on Ethereum (ERC721/1155) supporting minting, trading, and transfers.  
-- **Token Exchange Platform**: Developed secure token swaps with Solidity and proxy patterns.  
-- **Streaming Platform Backend**: Created RESTful APIs with **NodeJs** and **ExpressJs**.  
-- **Chrome Dinosaur Game**: Browser-based game using **HTML, CSS, and JavaScript**.
+- Improving problem-solving and coding skills with **Leetcode** 
 
 ---
 
