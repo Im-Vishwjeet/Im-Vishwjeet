@@ -73,7 +73,7 @@ Beyond blockchain, I enjoy **solving Data Structures and Algorithms problems**, 
   <a href="mailto:vishwjeetmeena2811@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://in.linkedin.com/in/vishwjeet-meena-709414221">
+  <a href="https://www.linkedin.com/in/im-vishwjeet/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
